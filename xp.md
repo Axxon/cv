@@ -133,3 +133,17 @@ dans cette entreprise de rencontrer des passionnés m’en ayant encore appris b
   - Utilisation de Vagrant (sur un environnement windows afin de disposer d’un environnement de travail Linux, 
     le sous-système windows pour Linux n’existait pas).
   - Développement front Es6/Webpack.
+
+
+## ActivCompany · Developpeur web apprentis (2015)
+
+### Objectifs:
+
+- assister le developpeur PHP/sf2 sur tout les projets
+- passer à la pratique dans un contexte d'entreprise
+
+### Réalisations:
+
+- réalisation de sites vitrines sf2 simples
+- réalisation d'un ERP avec Sf2
+- réalisation d'un réseau social professionnel, refacto/correction code de ESN, developpement de features.
