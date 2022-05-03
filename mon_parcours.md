@@ -1,3 +1,9 @@
+# Grans Sébastien - Software engineer
+
+- Né le 26/07/1985, à Conflans St Honorine, Français
+- Contact: `sebastien.grans@gmail.com`
+- Siret: `81296309800031`
+
 # Skills
 
 ## Back
@@ -8,6 +14,7 @@
 - db: SQL, Doctrine 2, Eloquent, Pomm, MySQL, MariaDb, PostGreSQL, MongoDB
 - servers: Nginx, Apache
 - other: composer, npm, api-platform
+- nestjs
 
 ## Front
 
@@ -16,7 +23,7 @@ Twig, Javascript (es6), Ember-js, Moustache.js, jQuery, Ajax
 
 ## DevOps
 
-- virtualisation/build: Make, Docker, Vagrant, VirtualBox
+- virtualisation/build: Make, Docker, Vagrant, VirtualBox, aws
 - messaging: RabbitMq, Redis
 - services: AWS-Cloudwatch
 - ci: Gitlab, Gitlab-ci
@@ -61,12 +68,11 @@ Yegor Bugayenko
 
 ## Autre
 
-J'avoue, je parle tout les jours tout seul pour me stimuler en anglais, langue pratiquée pour la veille, les 
-communications techniques avec d’autres développeurs, la lecture d’ouvrages techniques, blogs … 
+Anglais pratiqué pour la veille, les communications techniques avec d’autres développeurs, la lecture d’ouvrages techniques, blogs … 
 et aussi avec des amis non français.
 
 Passionné de musique, je fais de la musique électronique (synthèse modulaire), du piano, de la guitare, des percussions 
-(https://soundcloud.com/axxonnoxxa). J’ai par cette passion été intéressé par de nombreux autres sujet connexes, 
+(`https://soundcloud.com/axxonnoxxa`). J’ai par cette passion été intéressé par de nombreux autres sujets connexes, 
 (ma motivation pour maîtriser la programmation informatique pour un projet musical, le livecoding, cf SuperCollider) 
 comme l’histoire de l’art, philosophie, la sociologie … 
 
