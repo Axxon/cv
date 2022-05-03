@@ -1,6 +1,20 @@
 # Software engineer XP
 
-## Sapiendo · LeadDev (Freelance févr. 2021 - aujourd’hui · 11 mois févr. 2021)
+## E-Testing (3 jours)
+
+- corriger/vérifier des questions sur anciennes versions de php (avec docker), et en ajouté de nouvelles sur ces mêmes versions.
+
+## Inddex - Developpeur (Freelance, un mois)
+
+### Objectif
+
+- aider le lead à tenir la charge d'initialisation du projet.
+
+### Réalisation
+
+- service de login (oauth), souscription avec Sellsy et vérification téléphone avec Twilio. Architecture axée microservices, avec nestjs en typescript.
+
+## Sapiendo · LeadDev puis DevOps (Freelance févr. 2021 - aujourd’hui)
 
 ### Objectifs
 
@@ -20,6 +34,10 @@ de transformer des pdf en xml, les entrées/sorties par ApiPlatform.
 - Création d’un outils pour gérer l’ensemble des variables d’environnement pour toutes les déclinaisons.
 - Création d’un outils de vérification de l’état de services des environnements, test api via postman newman gitlab-ci.
 - Envoi de l’ensemble des logs sur AWSCloudwatch.
+- déploiement d'un projet interne nuxt avec gitlab aws docker gitlab-registry. aucun code source sur le serveur, juste des images docker, une image de dev construit l'image de prod.
+- mise à jour des dépendences (lts) du service de transformation pdf > xml.
+- migrations des services (pdf > xml) aws vers serveur internes.
+- mise en place de notifications d'exceptions vers sentry (difficulté gérer des certificats sentry.io pour communication https). 
 
 ## Groupe Blachère · Ingénieur d'études et de développement (CDD déc. 2020 - janv. 2021 · 2 mois)
 
