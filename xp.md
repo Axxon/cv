@@ -1,4 +1,8 @@
-# Software engineer XP
+# Grans Sébastien - Software engineer
+
+- Né le 26/07/1985, à Conflans St Honorine, Français
+- Contact: `sebastien.grans@gmail.com`
+- Siret: `81296309800031`
 
 ## E-Testing (3 jours)
 
