@@ -1,10 +1,11 @@
-# Grans Sébastien - Software engineer
+# Grans Sébastien -- `Software engineer`
+<br>
 
+---
 - Né le 26/07/1985, à Conflans St Honorine, Français
-- Contact: `sebastien.grans@gmail.com`
+- Contact: [sebastien.grans@gmail.com](`sebastien.grans@gmail.com`)
 - Siret: `81296309800031`
-
-# Skills
+---
 
 ## Back
 
@@ -38,7 +39,9 @@ Twig, Javascript (es6), Ember-js, Moustache.js, jQuery, Ajax
 Windows, Linux, Ubuntu, Debian, Arch (pc de travail)
 ssh, supervisord, wireshark
 
-## Architecture/design
+<br>
+
+## Design
 
 Domain driven design, architecture hexagonale, AMQP, CRS
 POO (fullObject, tell don’t ask), Design Patterns, Micro-services, UML2, Merise, SOLID, ACID, YAGNI, PSR
@@ -51,19 +54,21 @@ PhpStorm, Vim(sur ide), i3(tiling), Git, Slack, Notion, Jira, StackOverflow
 
 ## Formation
 
-- 2012 à maintenant - la vrai vie
+- 2012, à maintenant – la vrai vie
 - 2012 – Deust Webmaster à l’université de Limoges (en remote)
 - 2008 – IIIème cycle piano Jazz au conservatoire d’Annecy.
 - 2005 – Bac technologique science et technologies tertiaires au Lycée Baudelaire, vers Annecy (spécialité : informatique, option : musique).
 
+<br>
+
 ## Mes "profs"
 
-Mathias Noback
-Scott Millett
-Nick Tune
-Eric Evans
-Martin Fowler
-Yegor Bugayenko
+Mathias Noback,
+Scott Millett,
+Nick Tune,
+Eric Evans,
+Martin Fowler,
+Yegor Bugayenko,
 ... Tant d'autres personnes intéressantes
 
 ## Autre
@@ -71,8 +76,9 @@ Yegor Bugayenko
 Anglais pratiqué pour la veille, les communications techniques avec d’autres développeurs, la lecture d’ouvrages techniques, blogs … 
 et aussi avec des amis non français.
 
-Passionné de musique, je fais de la musique électronique (synthèse modulaire), du piano, de la guitare, des percussions 
-(`https://soundcloud.com/axxonnoxxa`). J’ai par cette passion été intéressé par de nombreux autres sujets connexes, 
+Passionné de musique, je fais de la musique électronique [https://soundcloud.com/axxonnoxxa](`https://soundcloud.com/axxonnoxxa`), 
+(synthèse modulaire), du piano, de la guitare, des percussions...
+J’ai par cette passion été intéressé par de nombreux autres sujets connexes, 
 (ma motivation pour maîtriser la programmation informatique pour un projet musical, le livecoding, cf SuperCollider) 
 comme l’histoire de l’art, philosophie, la sociologie … 
 

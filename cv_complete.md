@@ -1,24 +1,32 @@
-# Grans Sébastien - Software engineer
+# Grans Sébastien -- `Software engineer`
+<br>
 
+---
 - Né le 26/07/1985, à Conflans St Honorine, Français
-- Contact: `sebastien.grans@gmail.com`
+- Contact: [sebastien.grans@gmail.com](`sebastien.grans@gmail.com`)
 - Siret: `81296309800031`
+---
+<br>
 
-## E-Testing (3 jours)
+## <b>E-Testing</b> `3 jours`
 
 - corriger/vérifier des questions sur anciennes versions de php (avec docker), et en ajouté de nouvelles sur ces mêmes versions.
 
-## Inddex - Developpeur (Freelance, un mois)
+<br>
+
+## <b>Inddex</b> `[Developpeur Freelance ]` `un mois`
 
 ### Objectif
 
-- aider le lead à tenir la charge d'initialisation du projet.
+- Aider le lead à tenir la charge d'initialisation du projet.
 
 ### Réalisation
 
-- service de login (oauth), souscription avec Sellsy et vérification téléphone avec Twilio. Architecture axée microservices, avec nestjs en typescript.
+- Service de login (oauth), souscription avec Sellsy et vérification téléphone avec Twilio. Architecture axée microservices, avec nestjs en typescript.
 
-## Sapiendo · LeadDev puis DevOps (Freelance févr. 2021 - aujourd’hui)
+<br>
+
+## <b>Sapiendo</b> `[LeadDev puis DevOps Freelance]` `févr. 2021 - aujourd’hui`
 
 ### Objectifs
 
@@ -43,7 +51,9 @@ de transformer des pdf en xml, les entrées/sorties par ApiPlatform.
 - migrations des services (pdf > xml) aws vers serveur internes.
 - mise en place de notifications d'exceptions vers sentry (difficulté gérer des certificats sentry.io pour communication https). 
 
-## Groupe Blachère · Ingénieur d'études et de développement (CDD déc. 2020 - janv. 2021 · 2 mois)
+<br>
+
+## <b>Groupe Blachère</b> `[Ingénieur d'études et de développement]` `CDD déc. 2020 - janv. 2021 · 2 mois`
 
 ### Objectif
 
@@ -66,7 +76,9 @@ J’ai conçu un algorithme en full oriented object (tell don’t ask & code as 
 dans un contexte domain driven design (Stack-Docker/PHP7/Sf5 + tests unitaires/phpstan => code coverage à 90%).
 Modifiable par l’utilisateur par des formulaires symfony et visible par une représentation graphique deux dimensions.
 
-## Ax§n · réalisation d'un projet personnel & RD (2019 - 2020 · 1 an 1 mois)
+<br>
+
+## <b>Ax§n</b> `[réalisation d'un projet personnel & RD]` ` 2019 - 2020 · 1 an 1 mois`
 
 ### Objectif
 
@@ -82,8 +94,16 @@ musicaux/labels/artistes.
 - Création du service testé unitairement(mockery) et respectant les contraintes citées précédemment. 
 - Isolation/virtualisation du projet avec Docker/Makefile.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-## SensioLabs · Ingénieur d'études et de développement (avr. 2018 - sept. 2018 · 6 mois, en full remote) 
+## <b>SensioLabs</b> `[Ingénieur d'études et de développement]` `avr. 2018 - sept. 2018 · 6 mois, en full remote`
 
 ### Réalisation
 
@@ -105,14 +125,15 @@ disposition de l’entreprise ses ressources informationnelles. pour se faire:
       La gestion asynchrone des traitements à été l’implémenté par l’AMQP/C(-Q)RS avec l’usage de RabbitMq + Swarrot 
       (pour le paramétrage des consumers).
     - Utilisation de redis pour stockage temporaire.
-    - Authentification par JsonWebToken
+    - Authentification par JsonWebToken.
     - Vérification intégrale des fonctionnalités de l’api par des tests fonctionnels avec Behat, tests unitaires 
       (PhpUnit) et fixtures (Alice data fixtures) et mise en pre-prod sur SensioCloud.
     - Utilisation de Docker/Makefile et travis-ci pour la stack de developpement.
     - Review des productions avec le lead, documentations.
 
+<br>
 
-## Norsys · Ingénieur Études et Développement (2016 - 2018)
+## <b>Norsys</b> `[Ingénieur Études et Développement]` `2016 - 2018`
 
 ### Objectifs:
 
@@ -132,7 +153,7 @@ dans cette entreprise de rencontrer des passionnés m’en ayant encore appris b
   
 - Pour Technal :
   - Implémentation php/sf des besoins métiers.
-  - Documentations / Reviews 
+  - Documentations / Reviews.
   - Première expériences avec SCRUM (Poker planning, sprints, tickets …)
 
 - Pour un redistributeur :
@@ -156,16 +177,17 @@ dans cette entreprise de rencontrer des passionnés m’en ayant encore appris b
     le sous-système windows pour Linux n’existait pas).
   - Développement front Es6/Webpack.
 
+<br>
 
-## ActivCompany · Developpeur web apprentis (2015)
+## <b>ActivCompany</b> `[Developpeur web apprentis]` `2015`
 
 ### Objectifs:
 
-- assister le developpeur PHP/sf2 sur tout les projets
-- passer à la pratique dans un contexte d'entreprise
+- Assister le developpeur PHP/sf2 sur tout les projets
+- Passer à la pratique dans un contexte d'entreprise
 
 ### Réalisations:
 
-- réalisation de sites vitrines sf2 simples
-- réalisation d'un ERP avec Sf2
-- réalisation d'un réseau social professionnel, refacto/correction code de ESN, developpement de features.
+- Réalisation de sites vitrines sf2 simples.
+- Réalisation d'un ERP avec Sf2.
+- Réalisation d'un réseau social professionnel, refacto/correction code de ESN, developpement de features.
